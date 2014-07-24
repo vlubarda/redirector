@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Redirect">
+  <DataContextMoniker Name="/RedirectDataContext" />
+  <nestedChildShapes>
+    <classShape Id="94bf7d2d-17dc-4e0e-aad2-808136c8c60e" absoluteBounds="3.5, 2.125, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/RedirectDataContext/Redirect" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2e7d84ed-09d1-4ed6-8b57-86eeae4e88c6" absoluteBounds="3.515, 2.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
